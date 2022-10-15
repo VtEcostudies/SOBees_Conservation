@@ -3,28 +3,11 @@ title: 'Imporant Habitats'
 weight: 3
 header_menu: true
 ---
-<style>
-#myDIV {
-  height: 95%;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  padding: 10px;
-}
-#myDIV div {
-  text-align: left;
-  padding: 5px 0;
-}
-.item1 {
-  grid-column: 1 / span 2;
-}
-</style>
+
 
 Since many are closely tied to individual flower species or genera, planting and encouraging flowers that support threatened bees is both scalable and actionable. Other habitats such as mature hardwoods and sandpits are known to support unique bee communities, and deserve consideration when planning bee-focused conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species. 
 
-<div id="myDIV">
+<div class="doubleColumn">
 <div>
 <b>Sandpits</b>
 <img alt="Sandpit_species" src="images/Sphecodes johnsonii.jpg" style="margin: 0px height: 500px; width: 500px; position: relative;"> 
@@ -58,3 +41,6 @@ Andrena parnassiae is a specialist on Fen Grass (Parnassia), a fall blooming flo
 
 <b>Community Gardens and Diversified Farms</b>
 Though far from a natural community, small-scale fruit and vegetable farms are an important habitat for a number of rare and uncommon bees. Many farms and community gardens share a similar suite of flower plants and associated bees, including examples of both that are rare to absent in more natural habitats. Tomatillos and Ground Cherries (genus Physalis), Squash, Blueberries, and Sunflowers are all cultivated commercially in Vermont and support specialist bees. Several uncommon specialists appear to have healthy populations on local farms, though caution is warranted. Commercial techniques such as pesticides, frequent tillage, and pollenless sunflowers have the potential to attract but then negatively impact specialist bees and other native insects. 
+
+
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
