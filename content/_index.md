@@ -1,6 +1,5 @@
 ---
-title: ""
-date: 2022-10-14T19:38:15-04:00
-draft: true
+header_image: "images/Bombus-bimaculatus_logos.jpg"
+header_headline: "State of Vermont's Wild Bees"
+header_subheadline: "Conservation"
 ---
-
