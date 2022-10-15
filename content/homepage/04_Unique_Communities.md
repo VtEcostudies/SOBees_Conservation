@@ -5,7 +5,7 @@ header_menu: true
 ---
 <br>
 <div class="lead"><h4>
-Several areas harbor unique bee communities found nowhere else within Vermont
+Several areas harbor unique bee communities found nowhere else in Vermont
 </h4>
 </div>
 
