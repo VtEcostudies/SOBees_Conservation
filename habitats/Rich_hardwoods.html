@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+<b>Rich hardwoods</b>
+Prior to European colonization, the northeastern US was dominated by old growth hardwood forests. While often overlooked in bee conservation efforts, mature forests provide a number of crucial resources for both specialists and generalists. Rotten logs, standing deadwood, and rodent burrows on the forest floor are all used as nesting sites by a number of different bee genera. Additionally, at least seven species in VT specialize in spring ephemerals or other woodland flowers. Finally, flowering trees including maples, hickory, chestnut, and basswood are attractive to many different bees, though often overlooked by, or inaccessible to, beewatchers. Andrena rehni, reportedly a chestnut specialist, was probably once widespread in northeastern forest.
+Despite an increase in forest cover in Vermont over the past century, this habitat is not without conservation concern. Historical pasture is unlikely to return to a forest with the same floral diversity as land that’s been in continuous forest plus on-going threats, primarily in the form of invasive species (earthworms, Emerald Ash Borer, garlic mustard, etc) are altering forest communities, likely to the detriment of forest-adapted bees.

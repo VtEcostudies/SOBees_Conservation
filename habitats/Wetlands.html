@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+<b>Wetlands</b>
+
+Prior to human clearing of forests, wetlands probably provided the largest and most stable open habitats in the northeast. Unlike the understory of mature forests, wetlands have substantial sun exposure throughout the growing season, which has significant implications for bee and flower diversity and abundance. Several wetland obligates (and many facultative wetland plants) are hosts to specialist bees. Pickerelweed (Pontederia cordata) and Water lilies (Family Nymphaeaceae) are both reported as host plants for uncommon to rare bee species - the Pickerelweed Longhorn (Melissodes apicatus) and Water-lily Sweat Bee (Lasioglossum nelumbonis) respectively. A number of other uncommon to rare bees appear to be associated with wetlands, but not particular flowers. The Nelumbo Masked Bee (Hylaeus nelumbonis), Ocean Grove Metallic-Sweat bee (Lasioglossum oceanicum), and several others appear to be confined to wetland habitats. Wooded wetlands often contain unique plants (Ilex verticillata, Kalmia angustifolia) and their associated bees (Colletes banksi, Andrena kalmiae) as well as abundant standing dead wood, which is an important nesting resource for many bees.
