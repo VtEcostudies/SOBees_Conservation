@@ -4,8 +4,9 @@ weight: 6
 header_menu: true
 ---
 <div class="lead" style="padding-top:20px; text-decoration:underline;">
-  <h5> Since the vast majority of the state is privately owned, the future of Vermont’s bees is largely dependent on individuals and the management decisions made on everything from the ¼ acre lot to the 400 acre farm.
-  </h5> 
+  <h5>
+  Since the vast majority of the state is privately owned, the future of Vermont’s bees is largely dependent on individuals and the management decisions made on everything from the ¼ acre lot to the 400 acre farm.
+  </h5>
 </div>
 
 Thanks to campaigns like No Mow May and Bee City USA, there is a growing interest in backyard bee conservation and a recognition that bee habitat is often compatible with human habitat. Pollinator gardens are one of most widely recognized ways to “save the bees”, though hedgerows and wild strips are often easier and more effective ways. Many resources for building backyard bee habitat exist, some of which are compiled here: https://val.vtecostudies.org/projects/vtbees/pollinator-habitat/
