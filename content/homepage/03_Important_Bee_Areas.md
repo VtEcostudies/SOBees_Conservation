@@ -46,7 +46,7 @@ These priority regions require additional surveys to assess bee populations. Sev
 </div>
 
 <div class="col-lg-8 h_iframe">
-<iframe style="height:730px;max-width:750px;min-width:500px;" src="https://missions.vtatlasoflife.org/ImportantBeeAreas.html" scrolling="auto" frameBorder="0">
+<iframe style="height:730px;max-width:750px;min-width:500px;padding:20px;" src="https://missions.vtatlasoflife.org/ImportantBeeAreas.html" scrolling="auto" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' frameBorder="0">
 </iframe>
 </div>
 

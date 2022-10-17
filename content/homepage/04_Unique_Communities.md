@@ -11,12 +11,14 @@ Several areas harbor unique bee communities found nowhere else in Vermont
 
 <br>
 
-<div class="doubleColumn">
-<div style="column-width:100%; width: 100%">
-<iframe src="https://missions.vtatlasoflife.org/Uniq_Comm_Leaflet.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:700px;width:700px;border:none;overflow:hidden;"></iframe>
+<div class="row">
+
+<div class="col-lg-8 h_iframe">
+<iframe style="height:760px;max-width:750px;min-width:500px;" src="https://missions.vtatlasoflife.org/Uniq_Comm_Leaflet.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' frameBorder="0">
+</iframe>
 </div>
 
-<div>
+<div class="col-lg-4" style="padding:20px">
 Identifiying areas within Vermont that support unique bee communities is critical to maintain bee diversity into the future. Bee communities are the assemblages of bee species that occur together in a given location. The species found within unique communities, however, can range from common to rare. Yet, the areas identified as unique bee communities are disproportionally important for bee diversity in Vermont. Many of these areas warrant further investigation and conservation action should be considered in these areas to maintain bee diversity.
 </div>
 
