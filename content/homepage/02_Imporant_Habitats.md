@@ -62,7 +62,7 @@ Since many are closely tied to individual flower species or genera, planting and
   <div class="columnPics">
      <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
     <b>Power Right-Of-Ways</b> </p>
-    <a href="https://vtecostudies.github.io/SoBees_Conservation/PowerROW" target="blank_"><img src="images/Sphecodes johnsonii.jpg" alt="Sandpit_species" style="width:95%; position: relative"></a>
+    <a href="https://vtecostudies.github.io/SoBees_Conservation/PowerROW" target="blank_"><img src="images/PowerROW.jpg" alt="Powerline_winterberry_Credit_Jason_Hill" style="width:95%; position: relative"></a>
   </div>
 
   <div class="columnPics">
