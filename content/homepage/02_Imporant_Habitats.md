@@ -1,6 +1,6 @@
 ---
 title: 'Important Habitats'
-weight: 3
+weight: 4
 header_menu: true
 ---
 
@@ -19,7 +19,7 @@ header_menu: true
 }
 </style>
 
-Since many are closely tied to individual flower species or genera, planting and encouraging flowers that support threatened bees is both scalable and actionable. Other habitats such as mature hardwoods and sandpits are known to support unique bee communities, and deserve consideration when planning bee-focused conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species.
+Since many are closely tied to individual flower species or genera, planting and encouraging flowers that support threatened bees is both scalable and actionable. Other habitats such as mature hardwoods and sandpits are known to support unique bee communities, and deserve consideration when planning bee-focused conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species. 
 
 <!-- <div class="doubleColumn">
 <div>
