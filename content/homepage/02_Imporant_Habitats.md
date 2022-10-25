@@ -19,7 +19,7 @@ header_menu: true
 }
 </style>
 
-Since many are closely tied to individual flower species or genera, planting and encouraging flowers that support threatened bees is both scalable and actionable. Other habitats such as mature hardwoods and sandpits are known to support unique bee communities, and deserve consideration when planning bee-focused conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species. 
+Since many bees are closely tied to individual flower species or genera, planting and encouraging flowers that support bees that are conservation concern can quickly be beneficial for their populations. Other habitats, such as mature rich hardwoods or sand pits, support unique bee communities and deserve bee-focused management and conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species.
 
 <!-- <div class="doubleColumn">
 <div>
@@ -55,7 +55,7 @@ Since many are closely tied to individual flower species or genera, planting and
     <b>Rich hardwoods</b> </p>
     <a href="habitats/Rich_hardwoods" target="blank_"><img src="images/rich_hardwoods.jpg" alt="KPM_rich_hardwoods" style="width:95%; position: relative"></a>
   </div>
-</div> 
+</div>
 
 <!-- Second ROW OF IMAGES -->
 <div class="row">
@@ -76,7 +76,7 @@ Since many are closely tied to individual flower species or genera, planting and
     <b>Community Gardens and Diversified Farms</b> </p>
     <a href="habitats/Community_gardens_diversified_farms" target="blank_"><img src="images/Sphecodes johnsonii.jpg" alt="Mountains" style="width:95%; position: relative"></a>
   </div>
-</div> 
+</div>
 <!-- Large third row of images -->
 <div class="row" style="width: 98.25%">
          <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
@@ -86,3 +86,4 @@ Since many are closely tied to individual flower species or genera, planting and
 
 
 <p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
+
