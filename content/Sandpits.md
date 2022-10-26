@@ -1,8 +1,0 @@
----
-title: ""
----
-
-<b>Sandpits</b>
-
-The presence of exposed, deep, and relatively pure sand is the strongest indicator of bee diversity at the site level. The ease of digging and lack of moisture retention are probably the biggest factors in the frequent dependence on sand, as both are advantageous for many ground-nesting species. Additionally, many unique flowering plants are also found at sandy sites, which likely has a non-negligible effect on the associated bee community.
-Unfortunately sandy soils are also prime development sites given the ease of landscaping and septic capacity. While some forms of development appear to be suitable for a number of rare bee species, the planting of lawn grasses and other ground cover may reduce the exposed soil available for nesting bees. Actively managed sandpits are among the most reliable places to find frequently disturbed sand and many of VT’s sand obligates (bees, tiger beetles, other insects, and Sand Martins), but these are often considered unsightly and targeted for “restoration”. Additionally, sand pits have been proposed by Regional Planning Commissions as priority sights for large scale solar development. Given the limited number of sand deposits in the state and the high proportion of rare bees dependent on this habitat, this should be a major conservation priority in the immediate future. Bee (or other sand associate) conservation may look different than more traditional conservation, as some human mediated disturbance is probably important to maximize nest site availability and floral resources in the vicinity.
