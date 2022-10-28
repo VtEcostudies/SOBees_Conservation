@@ -26,7 +26,7 @@ All of these areas contain a mix of public and private land with some conserved 
 <b><u>Priority survey Regions</u></b> are areas with unique habitats or undersampled regions that we've identified. These priority regions require additional surveys to assess bee populations and may harbor species not found anywhere else in the state. </div>
 
 <div class="col-lg-8 h_iframe">
-<iframe style="height:760px;max-width:750px;min-width:500px;padding:20px;" src="https://missions.vtatlasoflife.org/SOBees_2022/ImportantBeeAreas.html" frameBorder="0" allowtransparency="true">
+<iframe style="height:760px;max-width:750px;min-width:500px;padding:20px;" src="https://vtatlasoflife.org/SOBees_2022/ImportantBeeAreas.html" frameBorder="0" allowtransparency="true">
 </iframe>
 
 <!-- onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' -->
@@ -34,6 +34,3 @@ All of these areas contain a mix of public and private land with some conserved 
 </div>
 
 </div>
-
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>

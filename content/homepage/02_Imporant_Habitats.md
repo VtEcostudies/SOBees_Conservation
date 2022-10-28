@@ -68,6 +68,3 @@ Since many bees are closely tied to individual flower species or genera, plantin
     <b>Wetlands</b> </p>
 <a href="habitats/Wetlands.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/Moose Bog_KPM.jpg" style="width: 90%;"></a>
 </div>
-
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>

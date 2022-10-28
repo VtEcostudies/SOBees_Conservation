@@ -14,7 +14,7 @@ We identified areas that harbor unique bee communities found nowhere else in Ver
 <div class="row">
 
 <div class="col-lg-6 h_iframe">
-<iframe style="height:760px;max-width:750px;min-width:500px;" src="https://missions.vtatlasoflife.org/SOBees_2022/Uniq_Comm_Leaflet.html" frameBorder="0" allowtransparency="true">
+<iframe style="height:760px;max-width:750px;min-width:500px;" src="https://vtatlasoflife.org/SOBees_2022/Uniq_Comm_Leaflet.html" frameBorder="0" allowtransparency="true">
 </iframe>
 </div>
 
@@ -27,5 +27,3 @@ Bee communities are the assemblages of species that occur together in a given lo
 </div>
 
 </div>
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
