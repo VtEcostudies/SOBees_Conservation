@@ -26,7 +26,7 @@ All of these areas contain a mix of public and private land with some conserved 
 <b><u>Priority survey Regions</u></b> are areas with unique habitats or undersampled regions that we've identified. These priority regions require additional surveys to assess bee populations and may harbor species not found anywhere else in the state. </div>
 
 <div class="col-lg-8 h_iframe">
-<iframe style="height:760px;max-width:750px;min-width:500px;padding:20px;" src="https://missions.vtatlasoflife.org/ImportantBeeAreas.html" frameBorder="0" allowtransparency="true">
+<iframe style="height:760px;max-width:750px;min-width:500px;padding:20px;" src="https://vtatlasoflife.org/SOBees_2022/ImportantBeeAreas.html" frameBorder="0" allowtransparency="true">
 </iframe>
 
 <!-- onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' -->
