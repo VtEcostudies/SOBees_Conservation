@@ -5,66 +5,105 @@ header_menu: true
 ---
 
 <style>
-    .columnPics {
+.columnPics {
+  /*
   float: left;
   width: 30%;
   padding: 5px;
+  */
 }
 
 /* Clear floats after image containers */
+/*
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
+*/
+.habitatTitle {
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+.habitatImage {
+  width: 100%;
+  min-height: 50%;
+}
+.post-content img {
+  margin: 0 0 0 0;
+  max-width: 100%;
+}
 </style>
 
 Since many bees are closely tied to individual flower species or genera, planting and encouraging flowers that support bees that are conservation concern can quickly be beneficial for their populations. Other habitats, such as mature rich hardwoods or sand pits, support unique bee communities and deserve bee-focused management and conservation actions. The following  list of plant communities or other habitats support a high proportion of unique and/or imperiled bee species.
 
-<!-- First ROW OF IMAGES -->
- <div class="row">
-  <div class="columnPics">
-     <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Sandpits</b> </p>
-    <a href="habitats/Sandpits.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Sandpit_species" style="width:95%; position: relative"></a>
+<div class="container">
+  <!-- First ROW OF 3 IMAGES -->
+   <div class="row">
+    <div class="col-lg-4 text-center columnPics">
+      <a href="habitats/Sandpits.html" target="_self">
+        <h6 class="habitatTitle">
+          Sandpits
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Sandpits" title="Sandpits">
+      </a>
+    </div>
+    <div class="col-lg-4 text-center columnPics">
+      <a href="habitats/Loosestrife_dogbane.html" target="_self">
+        <h6 class="habitatTitle">
+          Loosestrife and Dogbane
+        </h6>
+        <img class="habitatImage" src="https://inaturalist-open-data.s3.amazonaws.com/photos/85350669/medium.jpg" alt="Loosestrife and Dogbane" title="Loosestrife and Dogbane">
+      </a>
+    </div>
+    <div class="col-lg-4 text-center columnPics">
+      <a href="habitats/Rich_hardwoods.html" target="_self">
+        <h6 class="habitatTitle">
+          Rich hardwoods
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/rich_hardwoods.jpg" alt="Rich Hardwoods credit Kent McFarland" title="Rich Hardwoods credit Kent McFarland">
+      </a>
+    </div>
   </div>
 
-  <div class="columnPics">
-       <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Loosestrife and Dogbane</b> </p>
-    <a href="habitats/Loosestrife_dogbane.html" target="_self"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85350669/medium.jpg" alt="Forest" style="width:95%; position: relative"></a>
+  <!-- Second ROW OF 3 IMAGES -->
+  <div class="row">
+    <div class="col-lg-4 columnPics">
+      <a href="habitats/PowerROW.html" target="_self">
+        <h6 class="habitatTitle">
+          Power Right-Of-Ways
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/PowerROW.jpg" alt="Powerline_winterberry_Credit_Jason_Hill" title="Powerline_winterberry_Credit_Jason_Hill">
+      </a>
+    </div>
+    <div class="col-lg-4 columnPics">
+      <a href="habitats/Fens.html" target="_self">
+        <h6 class="habitatTitle">
+          Fens
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Forest" title="Forest">
+      </a>
+    </div>
+    <div class="col-lg-4 columnPics">
+      <a href="habitats/Community_gardens_diversified_farms.html" target="_self">
+        <h6 class="habitatTitle">
+          Community Gardens and Diversified Farms
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Mountains" title="Mountains">
+      </a>
+    </div>
   </div>
 
-  <div class="columnPics">
-         <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Rich hardwoods</b> </p>
-    <a href="habitats/Rich_hardwoods.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/rich_hardwoods.jpg" alt="KPM_rich_hardwoods" style="width:95%; position: relative"></a>
+  <!-- Third row of 1 image -->
+  <div class="row">
+    <div class="col-lg-12">
+      <a href="habitats/Wetlands.html" target="_self">
+        <h6 class="habitatTitle">
+          Wetlands
+        </h6>
+        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Moose Bog_KPM.jpg" alt="Wetlands" title="Wetlands">
+      </a>
+    </div>
   </div>
-</div>
-
-<!-- Second ROW OF IMAGES -->
-<div class="row">
-  <div class="columnPics">
-    <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Power Right-Of-Ways</b> </p>
-    <a href="habitats/PowerROW.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/PowerROW.jpg" alt="Powerline_winterberry_Credit_Jason_Hill" style="width:95%; position: relative"></a>
-  </div>
-
-  <div class="columnPics">
-       <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Fens</b> </p>
-    <a href="habitats/Fens.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Forest" style="width:95%; position: relative"></a>
-  </div>
-
-  <div class="columnPics">
-    <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Community Gardens and Diversified Farms</b> </p>
-    <a href="habitats/Community_gardens_diversified_farms.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Mountains" style="width:95%; position: relative"></a>
-  </div>
-</div>
-<!-- Large third row of images -->
-<div class="row" style="width: 98.25%">
-    <p style="font-size: 14pt; line-height: 10pt; text-align: center;">
-    <b>Wetlands</b> </p>
-<a href="habitats/Wetlands.html" target="_self"><img src="https://stateofbees.vtatlasoflife.org/images/Moose Bog_KPM.jpg" style="width: 90%;"></a>
-</div>
+</div> <!-- end container -->
