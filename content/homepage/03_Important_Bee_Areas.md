@@ -1,5 +1,5 @@
 ---
-title: 'Important Bee Areas and Priority Survey Regions'
+title: 'Important Bee Areas & Priority Survey Regions'
 weight: 2
 header_menu: true
 ---

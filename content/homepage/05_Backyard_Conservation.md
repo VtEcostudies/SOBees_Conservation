@@ -17,4 +17,4 @@ While there is a lot that a landowner can do to actively encourage native bees, 
 
  <img alt="Andrena asteris female" title="Aster Mining Bee (<i>Andrena asteris</i>)" src="https://stateofbees.vtatlasoflife.org/images/Andrena asteris female.jpg" style="margin: 0px">
 
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
+
