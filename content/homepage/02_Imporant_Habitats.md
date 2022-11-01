@@ -21,12 +21,12 @@ header_menu: true
   display: table;
 }
 */
-.habitatTitle {
+.bootstrapColumnTitle {
   font-weight: bold;
   text-align: center;
   padding: 20px;
 }
-.habitatImage {
+.bootstrapColumnImage {
   width: 100%;
   min-height: 50%;
 }
@@ -43,26 +43,26 @@ Since many bees are closely tied to individual flower species or genera, plantin
    <div class="row">
     <div class="col-lg-4 text-center columnPics">
       <a href="habitats/Sandpits.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Sandpits
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Sandpits" title="Sandpits">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Sandpits" title="Sandpits">
       </a>
     </div>
     <div class="col-lg-4 text-center columnPics">
       <a href="habitats/Loosestrife_dogbane.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Loosestrife and Dogbane
         </h6>
-        <img class="habitatImage" src="https://inaturalist-open-data.s3.amazonaws.com/photos/85350669/medium.jpg" alt="Loosestrife and Dogbane" title="Loosestrife and Dogbane">
+        <img class="bootstrapColumnImage" src="https://inaturalist-open-data.s3.amazonaws.com/photos/85350669/medium.jpg" alt="Loosestrife and Dogbane" title="Loosestrife and Dogbane">
       </a>
     </div>
     <div class="col-lg-4 text-center columnPics">
       <a href="habitats/Rich_hardwoods.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Rich hardwoods
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/rich_hardwoods.jpg" alt="Rich Hardwoods credit Kent McFarland" title="Rich Hardwoods credit Kent McFarland">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/rich_hardwoods.jpg" alt="Rich Hardwoods credit Kent McFarland" title="Rich Hardwoods credit Kent McFarland">
       </a>
     </div>
   </div>
@@ -71,26 +71,26 @@ Since many bees are closely tied to individual flower species or genera, plantin
   <div class="row">
     <div class="col-lg-4 columnPics">
       <a href="habitats/PowerROW.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Power Right-Of-Ways
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/PowerROW.jpg" alt="Powerline_winterberry_Credit_Jason_Hill" title="Powerline_winterberry_Credit_Jason_Hill">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/PowerROW.jpg" alt="Powerline_winterberry_Credit_Jason_Hill" title="Powerline_winterberry_Credit_Jason_Hill">
       </a>
     </div>
     <div class="col-lg-4 columnPics">
       <a href="habitats/Fens.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Fens
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Forest" title="Forest">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Forest" title="Forest">
       </a>
     </div>
     <div class="col-lg-4 columnPics">
       <a href="habitats/Community_gardens_diversified_farms.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Community Gardens and Diversified Farms
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Mountains" title="Mountains">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Mountains" title="Mountains">
       </a>
     </div>
   </div>
@@ -99,10 +99,10 @@ Since many bees are closely tied to individual flower species or genera, plantin
   <div class="row">
     <div class="col-lg-12">
       <a href="habitats/Wetlands.html" target="_self">
-        <h6 class="habitatTitle">
+        <h6 class="bootstrapColumnTitle">
           Wetlands
         </h6>
-        <img class="habitatImage" src="https://stateofbees.vtatlasoflife.org/images/Moose Bog_KPM.jpg" alt="Wetlands" title="Wetlands">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Moose Bog_KPM.jpg" alt="Wetlands" title="Wetlands">
       </a>
     </div>
   </div>
