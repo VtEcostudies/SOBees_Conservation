@@ -90,7 +90,7 @@ Since many bees are closely tied to individual flower species or genera, plantin
         <h6 class="bootstrapColumnTitle">
           Community Gardens and Diversified Farms
         </h6>
-        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Mountains" title="Mountains">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/comm_garden_SHardy.JPG" alt="Community Garden with flowers in fall" title="Community Garden">
       </a>
     </div>
   </div>
