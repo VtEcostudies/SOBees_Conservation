@@ -3,7 +3,7 @@ title: 'Bee Conservation in Yards & Gardens'
 weight: 5
 header_menu: true
 ---
-<div class="lead" style="padding-top:20px; text-decoration:underline;">
+<div class="lead" style="padding-top:20px;">
   <h4>
 From large meadows to backyard pollinator gardens, every landscape can help support wild bees
   </h4>

@@ -46,7 +46,7 @@ Since many bees are closely tied to individual flower species or genera, plantin
         <h6 class="bootstrapColumnTitle">
           Sandpits
         </h6>
-        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Sandpits" title="Sandpits">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/sandpit.jpg" alt="Sandpits" title="Sandpits">
       </a>
     </div>
     <div class="col-lg-4 text-center columnPics">
@@ -54,7 +54,7 @@ Since many bees are closely tied to individual flower species or genera, plantin
         <h6 class="bootstrapColumnTitle">
           Loosestrife and Dogbane
         </h6>
-        <img class="bootstrapColumnImage" src="https://inaturalist-open-data.s3.amazonaws.com/photos/85350669/medium.jpg" alt="Loosestrife and Dogbane" title="Loosestrife and Dogbane">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/loosestrife.jpg" alt="Loosestrife and Dogbane" title="Loosestrife and Dogbane">
       </a>
     </div>
     <div class="col-lg-4 text-center columnPics">
@@ -82,7 +82,7 @@ Since many bees are closely tied to individual flower species or genera, plantin
         <h6 class="bootstrapColumnTitle">
           Fens
         </h6>
-        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/Sphecodes johnsonii.jpg" alt="Forest" title="Forest">
+        <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/fens.jpg" alt="Fen" title="Fen">
       </a>
     </div>
     <div class="col-lg-4 columnPics">
