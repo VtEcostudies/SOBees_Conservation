@@ -14,7 +14,7 @@ We identified areas that harbor unique bee communities found nowhere else in Ver
 <div class="row">
 
 <div class="col-lg-7 h_iframe">
-<iframe style="height:760px;max-width:750px;min-width:500px;" src="https://vtatlasoflife.org/SOBees_2022/Uniq_Comm_Leaflet.html" frameBorder="0" allowtransparency="true">
+<iframe style="height:720px;max-width:710px;min-width:500px;" src="https://vtatlasoflife.org/SOBees_2022/Uniq_Comm_Leaflet.html" frameBorder="0" allowtransparency="true">
 </iframe>
 </div>
 
