@@ -22,6 +22,6 @@ header_menu: true
 
   <div class="col-lg-6">
     <img alt="Andrena asteris female" title="Aster Mining Bee (Andrena asteris)" src="https://stateofbees.vtatlasoflife.org/images/Andrena asteris female.jpg" style="margin: 0px">
-    <label class="image-caption">Aster Mining Bee (<i>Andrena asteris</i>)</label>
+    <label class="image-caption">Northern Aster Miner (<i>Andrena asteris</i>) Female digging a nest in a driveway © Spencer Hardy</label>
   </div>
  </div>
