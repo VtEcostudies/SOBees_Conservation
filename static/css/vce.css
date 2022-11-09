@@ -2,6 +2,11 @@
 
 /* Begin overides of hugo scroll styles for site */
 
+.blog-title {
+  color: #224422;
+  font-weight: 900;
+}
+
 /* Override anchor tag default appearance */
 a {
   text-decoration: underline;
