@@ -3,11 +3,11 @@
 /* Begin overides of hugo scroll styles for site */
 
 .blog-title {
-  color: black;
+  color: gray;
   font-weight: bolder;
 }
 .blog-description {
-  color: black;
+  color: gray;
   font-weight: bolder;
 }
 
