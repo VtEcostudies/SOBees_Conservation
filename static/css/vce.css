@@ -9,6 +9,7 @@
 .blog-description {
   color: #ffff00;
   font-weight: bolder;
+  font-size: large;
 }
 
 /* Override anchor tag default appearance */
