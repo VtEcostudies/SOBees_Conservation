@@ -4,11 +4,11 @@
 
 .blog-title {
   color: white;
-  font-weight: bold;
+  font-weight: bolder;
 }
-.blog-subtitle {
+.blog-description {
   color: white;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 /* Override anchor tag default appearance */
