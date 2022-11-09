@@ -5,13 +5,15 @@
 .blog-title {
   color: #ffff00;
   font-weight: bolder;
-  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
 .blog-description {
   color: #ffff00;
   font-weight: bolder;
   font-size: 200%;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 /* Override anchor tag default appearance */
