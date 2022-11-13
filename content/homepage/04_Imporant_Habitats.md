@@ -60,7 +60,7 @@ Since many bees are closely tied to individual flower species or genera, plantin
     <div class="col-lg-4 text-center columnPics">
       <a href="habitats/Rich_hardwoods.html" target="_self">
         <h6 class="bootstrapColumnTitle">
-          Rich hardwoods
+          Rich Hardwood Forests
         </h6>
         <img class="bootstrapColumnImage" src="https://stateofbees.vtatlasoflife.org/images/rich_hardwoods.jpg" alt="Rich Hardwoods credit Kent McFarland" title="Rich Hardwoods credit Kent McFarland">
       </a>
