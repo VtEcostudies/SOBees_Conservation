@@ -9,7 +9,8 @@ header_menu: true
 
 <div class="row">
   <div class="col-lg-5">
-  Building on the concept of Important Bird Areas, we identified 12 areas as Important Bee Areas (IBeeA). This network of sites is vital to the long-term viability of bee diversity in Vermont. An IBeeA can be large or small, public or private, and must meet one of several objective criteria.
+  Building on the concept of Important Bird Areas, we identified 12 areas as Important Bee Areas (IBeeA). This network of sites is vital to the long-term viability of bee diversity in Vermont. An IBeeA can be large or small, public or private, and must meet one of several objective criteria.     
+    
     
   The Following criteria were used to guide our selection process to identify <b><u>Important bee areas (IBeeAs)</u></b>:
   <ol>
