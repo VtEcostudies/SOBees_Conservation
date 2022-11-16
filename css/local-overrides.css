@@ -1,0 +1,17 @@
+/* VCE styles */
+
+/* Begin local overrides of site styles */
+
+.blog-title {
+  color: #ffff00;
+  font-weight: bolder;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.blog-description {
+  color: #ffff00;
+  font-weight: bolder;
+  font-size: 200%;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
